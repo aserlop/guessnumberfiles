@@ -1,0 +1,10 @@
+$RECYCLE.BIN
+CUNEF
+Films
+Prueba ETS
+Thumbs.db
+VM
+desktop.ini
+pruebas
+workbench
+~$NTROL DEL CONSUMO ALCOHOLICO EN NUEVO HAMPSHIRE.docx
